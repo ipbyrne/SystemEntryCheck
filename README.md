@@ -3,4 +3,7 @@ A template used to test entry signals of different technical indicators using a 
 
 This tests both the original signal, and the reverse of that signal, and plots the values in an indicator on MT4 and also prints out a CSV file that can be used to analyze the data in Python or Excel.
 
-The entry used in this file is a very bastic MA entry that has a p-value that remains steady for sometime on the EURGBP pair using a 5 minute chart.
+The entry used in this file is a very bastic MA entry that has a p-value that remains steady for sometime on the EURGBP pair using a 5 minute chart. This uses a fixed take profit of 25 pips and fixed SL of 50 pips.
+
+Below is an image of the data:
+O = Original Signal | R = Reverse of the Original Signal
