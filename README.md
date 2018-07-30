@@ -8,4 +8,4 @@ The entry used in this file is a very bastic MA entry that has a p-value that re
 Below is an image of the data:
 O = Original Signal | R = Reverse of the Original Signal
 
-![alt text](https://github.com/ipbyrne/SystemEntryCheck/blob/master/chart.PNG?raw=true "System Results")
+![alt text](https://raw.githubusercontent.com/ipbyrne/SystemEntryCheck/master/chart.png "System Results")
